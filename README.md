@@ -1,5 +1,8 @@
 # Catppuccin Flags
 
-The code for this has been permanently moved to [Codeberg](https://codeberg.org/scarcekoi/catppuccin-flags).
+The source code for this project has permanently moved to Codeberg:  
+https://codeberg.org/scarcekoi/catppuccin-flags
 
-This repository exists so that anyone who doesn't have Codeberg account (and doesn't want one) can request changes/new flags/etc. It is preferred that issues are created on the Codeberg repository. PRs **have** to be created on the Codeberg repository due to this one not having the code.
+This repository exists only as a request hub for people who do not have, or do not want, a Codeberg account. You can use it to request changes, report issues, or suggest new flags.
+
+Issues are preferred on the Codeberg repository. Pull requests **must** be opened on Codeberg, since this repository does not contain the source code.
